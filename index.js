@@ -1,7 +1,7 @@
 import { Web5 } from '@web5/api';
 import { VerifiableCredential } from '@web5/credentials';
 
-/*
+/*]
 Needs globalThis.crypto polyfill. 
 This is *not* the crypto you're thinking of.
 It's the original crypto...CRYPTOGRAPHY.
